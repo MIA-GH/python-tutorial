@@ -77,4 +77,6 @@ print(type(name))
 # #  # conditionals
 # if, else, elif
 
+print("Hello Haqq")
+print("Hello Musah")
 
