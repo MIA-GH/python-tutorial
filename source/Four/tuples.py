@@ -80,3 +80,8 @@ mytpl = ("Musah", "Rahman", "Musah", "Rahman")
 
 print(mytpl.index("Rahman"))
 print(mytpl.count("Rahman"))
+
+# # # pull from github
+# git pull https://github.com/MIA-GH/python-tutorial
+# after any update 
+# git pull
